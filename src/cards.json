@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "OG Anunoby",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628384.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Danny Green",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201980.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Serge Ibaka",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201586.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Kawhi Leonard",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202695.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Kyle Lowry",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200768.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Norman Powell",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626181.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Pascal Siakam",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627783.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Jonas Valanciunas",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202685.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Fred Vanvleet",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627832.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Delon Wright",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626153.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "CJ Miles",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101139.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Greg Monroe",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202328.png",
+    "count": 0
+  }
+]
